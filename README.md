@@ -1,2 +1,2 @@
 # SpeechtoText
-BasicSpeechtoText
+Basic Speech to text program
